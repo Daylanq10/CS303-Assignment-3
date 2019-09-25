@@ -1,0 +1,7 @@
+﻿  Stack_Queue.cpp
+\\Mac\Home\Desktop\CS303_Homework3\CS303_Assignment3\Stack_Queue.cpp(1,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+\\Mac\Home\Desktop\CS303_Homework3\CS303_Assignment3\Stack_Queue.cpp(2,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+\\Mac\Home\Desktop\CS303_Homework3\CS303_Assignment3\Stack_Queue.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+\\Mac\Home\Desktop\CS303_Homework3\CS303_Assignment3\Stack_Queue.cpp(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+\\Mac\Home\Desktop\CS303_Homework3\CS303_Assignment3\Stack_Queue.cpp(26,20): warning C4018:  '<': signed/unsigned mismatch
+  CS303_Assignment3.vcxproj -> \\Mac\Home\Desktop\CS303_Homework3\CS303_Assignment3\Debug\CS303_Assignment3.exe
