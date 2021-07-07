@@ -1,0 +1,4 @@
+﻿  Source.cpp
+\\Mac\Home\Desktop\CS303_Assignment4\Source.cpp(163,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\CS303_Assignment4\Source.cpp(120): warning C4715: 'mergeSort': not all control paths return a value
+  CS303_Assignment4.vcxproj -> \\Mac\Home\Desktop\CS303_Assignment4\Debug\CS303_Assignment4.exe

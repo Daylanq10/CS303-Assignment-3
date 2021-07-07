@@ -1,0 +1,4 @@
+﻿  Source.cpp
+\\Mac\Home\Desktop\CS303_Assignment6\Source.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\CS303_Assignment6\Source.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+  CS303_Assignment6.vcxproj -> \\Mac\Home\Desktop\CS303_Assignment6\Debug\CS303_Assignment6.exe
